@@ -1,10 +1,10 @@
 # private_safelink
 
-##Dokumentasi Private Safelink
+## Dokumentasi Private Safelink
 
-###Shortcode :
+### Shortcode :
 
-####Home/Proses Link :
+#### Home/Proses Link :
 ```
 [rumah]
 ```
