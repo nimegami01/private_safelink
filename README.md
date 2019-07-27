@@ -2,6 +2,10 @@
 
 ## Dokumentasi Private Safelink
 
+### Use :
+```
+domain.com/?ref=LINK
+```
 ### Shortcode :
 
 #### Home/Proses Link :
