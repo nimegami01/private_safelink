@@ -1,7 +1,7 @@
 <!-- Rahmat kontol Full Page Script Exclude-->
 <script type="text/javascript">
-var go_url = 'https://ceksite.id';
-var shorten_exclude = ['google.com', 'mysite.com', 'domain.com'];
+var go_url = 'https://ceksite.id'; // Ganti dengan url/domain safelink anda
+var shorten_exclude = ['google.com', 'mysite.com', 'domain.com']; // Link yang tidak ingin disafelink
 </script>
 
 <script>
